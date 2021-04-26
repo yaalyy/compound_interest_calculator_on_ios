@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Calculator
+
+  Created by ARCK on 2020/4/5.
+  Copyright © 2020 Connor Zhan. All rights reserved.
+*/
+
+
+CFBundleDisplayName = "鸭梨计算器";

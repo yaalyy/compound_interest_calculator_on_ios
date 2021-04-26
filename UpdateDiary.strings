@@ -1,0 +1,27 @@
+/* 
+  UpdateDiary.strings
+  Calculator
+
+  Created by ARCK on 2020/4/5.
+  Copyright © 2020 Connor Zhan. All rights reserved.
+*/
+
+
+/*
+ V1.3
+ 增加了图像显示
+ V1.2.1
+ 修复了部分文本显示错误
+ V1.2
+ 修改了UI的文本，并添加了相应的注释以便于用户使用
+ 修复了黑暗模式的BUG
+ 添加了英语和繁体中文显示语言
+ 
+ V1.1.2
+ 键盘退出方式修改为滑动，修复了滑动条的Bug
+ 
+ 
+ 
+ */
+
+
