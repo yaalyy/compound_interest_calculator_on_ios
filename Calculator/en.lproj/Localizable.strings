@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  Calculator
+
+  Created by ARCK on 2020/4/17.
+  Copyright © 2020 Connor Zhan. All rights reserved.
+*/
+
+
+
+ "复利计算器" = "Compound Calculator";
+"本利和=本金*(1+利率)^投资期限" = "Amount=Principal(1+Interest Rates)^Time";
+"请根据需要选择您要计算的元素" = "Please select a factor to calculate";
+"  本利和计算  " = "  End Amount  ";
+"  投资期限计算  " = "  Investment Length  ";
+"  本金计算  " = "  Principal  ";
+"该模式用于在已知本金,利率,时间的情况下，计算本利和" = "This mode is used to calculate End Amount with known Principal,Rates and Time";
+"该模式用于在已知本利和,利率,本金的情况下，" = "This mode is used to calculate approximate Investment Length";
+"计算达到目标本利和的预计投资时长" = "with known TA,Principal and Rates";
+"该模式用于在已知本利和,利率,投资时长的情况下，" = "This mode is used to calculate approximate least Principal";
+"计算达到目标本利和的预计最少本金" = "with known TA,Rates and Time";
+"年" = "Year";
+"/年"= "/Year";
+"月" = "Month";
+"日" = "Day";
+" 计算 " = " Calculate ";
+"利率:" = "Rates:";
+"复利方式:" = "Period:";
+ "本金:" = "Principal:";
+"投资期限:" = "Time:";
+"追加投资:" = "Additions:";
+
+
+
+"预计投资期限:" = "Investment L.:";
+
+
+"本利和:" = "End Amount:";
+
+"目标存款:" = "Target Amount:";
+"最低所需本金:" = "Least Principal:";
+   
+
